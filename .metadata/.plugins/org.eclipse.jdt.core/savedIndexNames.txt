@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Velocity_Java_Project_Practice\.metadata\.plugins\org.eclipse.jdt.core
+1601831639.index
+3329446765.index
