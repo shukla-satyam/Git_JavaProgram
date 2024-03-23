@@ -1,0 +1,16 @@
+package com.velocity;
+
+
+// 2. Write the java program to print first character of your name on console.
+
+public class FirstCharacter {
+
+	char name='S';
+	public static void main(String[]args) {
+		
+		FirstCharacter firstCharacter=new FirstCharacter();
+		
+		System.out.println(firstCharacter.name);
+		//System.out.println("First Character of Satyam is>>"+name);
+	}
+}

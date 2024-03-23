@@ -1,0 +1,17 @@
+package com.velocity;
+
+//6. Write the java program to print the global variable value as 25.
+
+public class GlobalVariableAssignValue {
+
+	int y = 25;
+
+	public static void main(String[] args) {
+
+		GlobalVariableAssignValue globalVariableAssignValue = new GlobalVariableAssignValue();
+		int y = globalVariableAssignValue.y;
+		System.out.println("Global Varibale Value is>>" + y);
+		System.out.println("Global Variable Value is>>"+globalVariableAssignValue.y);
+		
+	}
+}
